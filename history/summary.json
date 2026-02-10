@@ -4,19 +4,19 @@
     "url": "http://peta-inovasi.dev.handokoaji.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/peta-inovasi.dev.handokoaji.my.id.ico",
     "slug": "dev",
-    "status": "down",
-    "uptime": "6.05%",
-    "uptimeDay": "6.05%",
-    "uptimeWeek": "6.05%",
-    "uptimeMonth": "6.05%",
-    "uptimeYear": "6.05%",
-    "time": 193,
-    "timeDay": 193,
-    "timeWeek": 193,
-    "timeMonth": 193,
-    "timeYear": 193,
+    "status": "up",
+    "uptime": "0.51%",
+    "uptimeDay": "0.51%",
+    "uptimeWeek": "0.51%",
+    "uptimeMonth": "0.51%",
+    "uptimeYear": "0.51%",
+    "time": 272,
+    "timeDay": 272,
+    "timeWeek": 272,
+    "timeMonth": 272,
+    "timeYear": 272,
     "dailyMinutesDown": {
-      "2026-02-10": 40
+      "2026-02-10": 518
     }
   }
 ]
