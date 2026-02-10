@@ -5,7 +5,7 @@ baseUrl: /monitor
 
 sites:
   - name: DEV
-    url: https://www.google.com
+    url: http://peta-inovasi.dev.handokoaji.my.id
     expectedStatusCodes:
       - 200
 
