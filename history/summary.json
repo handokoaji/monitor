@@ -1,20 +1,20 @@
 [
   {
     "name": "DEV",
-    "url": "https://www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
+    "url": "http://peta-inovasi.dev.handokoaji.my.id",
+    "icon": "https://icons.duckduckgo.com/ip3/peta-inovasi.dev.handokoaji.my.id.ico",
     "slug": "dev",
-    "status": "up",
-    "uptime": "0.30%",
-    "uptimeDay": "0.30%",
-    "uptimeWeek": "0.30%",
-    "uptimeMonth": "0.30%",
-    "uptimeYear": "0.30%",
-    "time": 196,
-    "timeDay": 196,
-    "timeWeek": 196,
-    "timeMonth": 196,
-    "timeYear": 196,
+    "status": "down",
+    "uptime": "6.08%",
+    "uptimeDay": "6.08%",
+    "uptimeWeek": "6.08%",
+    "uptimeMonth": "6.08%",
+    "uptimeYear": "6.08%",
+    "time": 193,
+    "timeDay": 193,
+    "timeWeek": 193,
+    "timeMonth": 193,
+    "timeYear": 193,
     "dailyMinutesDown": {
       "2026-02-10": 40
     }
