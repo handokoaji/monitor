@@ -1,6 +1,7 @@
 # Change these first
-owner: handokoaji # Your GitHub organization or username, where this repository lives
-repo: monitor # The name of this repository
+owner: handokoaji
+repo: monitor
+baseUrl: /monitor
 
 sites:
   - name: DEV
@@ -9,24 +10,19 @@ sites:
       - 200
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: uptime.handokoaji.my.id
-  # baseUrl: /your-repo-name
+  # CNAME dikosongkan/comment karena tidak pakai custom domain
+  # cname: monitor.handokoaji.my.id
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Monitor Ketua** powered entirely by GitHub & Upptime."
   introMessage: Monitor yang bisa dimonitor
   navbar:
     - title: Status
-      href: /
+      href: /monitor/
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/handokoaji/monitor
 
 notifications:
   - type: telegram
     chatId: $TELEGRAM_CHAT_ID
     botToken: $TELEGRAM_BOT_TOKEN
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
