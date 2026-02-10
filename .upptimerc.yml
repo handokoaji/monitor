@@ -10,8 +10,8 @@ sites:
       - 200
 
 status-website:
-  # CNAME dikosongkan/comment karena tidak pakai custom domain
-  # cname: monitor.handokoaji.my.id
+  # PINDAHKAN baseUrl KE SINI (di dalam status-website)
+  baseUrl: /monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Monitor Ketua** powered entirely by GitHub & Upptime."
@@ -24,3 +24,5 @@ status-website:
 
 notifications:
   - type: telegram
+    # Upptime akan otomatis mengambil SECRET dari GitHub Actions 
+    # Pastikan Nama Secret di GitHub adalah: NOTIFICATION_TELEGRAM_BOT_KEY dan NOTIFICATION_TELEGRAM_CHAT_ID
