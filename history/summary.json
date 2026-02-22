@@ -5,17 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/peta-inovasi.dev.handokoaji.my.id.ico",
     "slug": "dev",
     "status": "up",
-    "uptime": "96.87%",
+    "uptime": "97.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.87%",
-    "uptimeYear": "96.87%",
+    "uptimeMonth": "97.01%",
+    "uptimeYear": "97.01%",
     "time": 750,
     "timeDay": 1019,
     "timeWeek": 1003,
     "timeMonth": 750,
     "timeYear": 750,
     "dailyMinutesDown": {
+      "2026-02-22": 0,
       "2026-02-10": 518
     }
   }
