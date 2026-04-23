@@ -4,7 +4,7 @@
     "url": "https://peta-inovasi.handokoaji.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/peta-inovasi.handokoaji.my.id.ico",
     "slug": "dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1029,
     "timeYear": 946,
     "dailyMinutesDown": {
+      "2026-04-23": 0,
       "2026-02-22": 42,
       "2026-02-10": 518
     }
